@@ -13,10 +13,10 @@ Portfolio website pribadi berbasis HTML, CSS, dan JavaScript.
 - Contact
 
 ## Project
-- On The Go Visual Tracking
+- On The Go Visual Tracking - UI/UX
 - RestoMate — JavaFX + SQL
 - Smart Task Organizer
-- Kicau Mania / Computer Vision
+- Foto Kita Blur / Computer Vision
 - Drowsiness Detector
 
 ## Kontak
@@ -24,4 +24,4 @@ Portfolio website pribadi berbasis HTML, CSS, dan JavaScript.
 - Email: tifliachmad@gmail.com
 - GitHub: achmadtifli-web
 - Instagram: @achmadtifli
-- TikTok: @tifliiiiii
+- TikTok: @lailatulcoder
